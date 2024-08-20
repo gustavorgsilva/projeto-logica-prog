@@ -15,7 +15,7 @@ namespace projeto_formativa_senai
         //declarando variáveis
         int[] golTime1 = new int[6];
         int[] golTime2 = new int[6];
-        string[] times1 = new string[6] { "Grêmio", "Palmeiras,", "Santos", "Corinthians", "PontePreta", "Flamengo" };
+        string[] times1 = new string[6] { "Grêmio", "Palmeiras", "Santos", "Corinthians", "PontePreta", "Flamengo" };
         string[] times2 = new string[6] { "Juventude", "Internacional", "Botafogo", "Cruzeiro", "Vasco", "Atlético Mineiro" };
         Label[] resultados = new Label[6];
         int index;
