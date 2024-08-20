@@ -1,0 +1,13 @@
+D:\ADS\Projetos\projeto-formativa-senai\bin\Debug\projeto-formativa-senai.exe.config
+D:\ADS\Projetos\projeto-formativa-senai\bin\Debug\projeto-formativa-senai.exe
+D:\ADS\Projetos\projeto-formativa-senai\bin\Debug\projeto-formativa-senai.pdb
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto-formativa-senai.csproj.AssemblyReference.cache
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto_formativa_senai.Properties.Resources.resources
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto-formativa-senai.csproj.GenerateResource.cache
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto-formativa-senai.csproj.CoreCompileInputs.cache
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto-formativa-senai.exe
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto-formativa-senai.pdb
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto_formativa_senai.FrmMenu.resources
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto_formativa_senai.FrmPartidasFutebol.resources
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto_formativa_senai.FrmPlanetas.resources
+D:\ADS\Projetos\projeto-formativa-senai\obj\Debug\projeto_formativa_senai.FrmMininoEMaximo.resources

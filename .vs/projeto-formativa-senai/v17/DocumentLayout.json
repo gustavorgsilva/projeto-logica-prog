@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADS\\Projetos\\projeto-formativa-senai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmpartidasfutebol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmpartidasfutebol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmpartidasfutebol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmpartidasfutebol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmpartidasfutebol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmpartidasfutebol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmplanetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmplanetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmmininoemaximo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmmininoemaximo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|d:\\ads\\projetos\\projeto-formativa-senai\\frmplanetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmplanetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmplanetas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmplanetas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmmininoemaximo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmmininoemaximo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|D:\\ADS\\Projetos\\projeto-formativa-senai\\frmmininoemaximo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6CB2B-3E60-46C1-A99E-7CF6FA287BA1}|projeto-formativa-senai.csproj|solutionrelative:frmmininoemaximo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "FrmMenu.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:34:32.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPartidasFutebol.cs [Design]",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPartidasFutebol.cs",
+              "RelativeDocumentMoniker": "FrmPartidasFutebol.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPartidasFutebol.cs [Design]",
+              "RelativeToolTip": "FrmPartidasFutebol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:19:17.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPlanetas.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPlanetas.cs",
+              "RelativeDocumentMoniker": "FrmPlanetas.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPlanetas.cs",
+              "RelativeToolTip": "FrmPlanetas.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:45:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "FrmMenu.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMenu.cs",
+              "RelativeToolTip": "FrmMenu.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:35:31.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMininoEMaximo.cs [Design]",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMininoEMaximo.cs",
+              "RelativeDocumentMoniker": "FrmMininoEMaximo.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMininoEMaximo.cs [Design]",
+              "RelativeToolTip": "FrmMininoEMaximo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:32:51.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPartidasFutebol.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPartidasFutebol.cs",
+              "RelativeDocumentMoniker": "FrmPartidasFutebol.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPartidasFutebol.cs",
+              "RelativeToolTip": "FrmPartidasFutebol.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAzwGQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:21:30.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPartidasFutebol.Designer.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPartidasFutebol.Designer.cs",
+              "RelativeDocumentMoniker": "FrmPartidasFutebol.Designer.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPartidasFutebol.Designer.cs",
+              "RelativeToolTip": "FrmPartidasFutebol.Designer.cs",
+              "ViewState": "AQIAAIICAAAAAAAAAAAMwJsCAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:21:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPlanetas.cs [Design]",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPlanetas.cs",
+              "RelativeDocumentMoniker": "FrmPlanetas.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPlanetas.cs [Design]",
+              "RelativeToolTip": "FrmPlanetas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:08:47.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:01:08.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPlanetas.Designer.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPlanetas.Designer.cs",
+              "RelativeDocumentMoniker": "FrmPlanetas.Designer.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmPlanetas.Designer.cs",
+              "RelativeToolTip": "FrmPlanetas.Designer.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAADgv68AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:10:19.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmMenu.Designer.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "FrmMenu.Designer.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMenu.Designer.cs",
+              "RelativeToolTip": "FrmMenu.Designer.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAADgv58AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:35:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMininoEMaximo.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMininoEMaximo.cs",
+              "RelativeDocumentMoniker": "FrmMininoEMaximo.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMininoEMaximo.cs",
+              "RelativeToolTip": "FrmMininoEMaximo.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:36:02.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMininoEMaximo.Designer.cs",
+              "DocumentMoniker": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMininoEMaximo.Designer.cs",
+              "RelativeDocumentMoniker": "FrmMininoEMaximo.Designer.cs",
+              "ToolTip": "D:\\ADS\\Projetos\\projeto-formativa-senai\\FrmMininoEMaximo.Designer.cs",
+              "RelativeToolTip": "FrmMininoEMaximo.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAADgv5oAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:36:09.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
