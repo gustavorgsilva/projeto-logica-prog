@@ -18,7 +18,7 @@
 
 2. Entre no diretório do projeto
 3. Clique duas vezes na solução do projeto;
-4. Clique no bot]ao iniciar, localizado perto das guias do Visual Studio.
+4. Clique no botao iniciar, localizado perto das guias do Visual Studio.
 
 ## Instalação
 
